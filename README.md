@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/3953268/media/8eeb0b23ff1ad0fda09da03056d43960.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sorayaisf&label=Profile%20views&color=0e75b6&style=flat" alt="sorayaisf" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
