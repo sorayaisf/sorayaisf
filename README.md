@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soraya Isfandiari</h1>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/3953268/media/8eeb0b23ff1ad0fda09da03056d43960.gif">
+
 
 
 - 🌱 I’m currently learning **ReactJS**
