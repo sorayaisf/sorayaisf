@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS**
+- Currently learning **ReactJS**
 <p align="left">
 </p>
 
